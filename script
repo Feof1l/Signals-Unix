@@ -1,0 +1,6 @@
+#!/bin/bash
+#!/bin/bash
+rm Parent.out
+rm Child.out
+gcc Parent.c -o Parent.out
+gcc Child.c -o Child.out
